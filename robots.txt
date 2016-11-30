@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  include(404.php): failed to open stream: No such file or directory in <b>/home/betadoomsdayent/public_html/route.php</b> on line <b>245</b><br />
+<br />
+<b>Warning</b>:  include(): Failed opening '404.php' for inclusion (include_path='.:/usr/local/lib/php') in <b>/home/betadoomsdayent/public_html/route.php</b> on line <b>245</b><br />
